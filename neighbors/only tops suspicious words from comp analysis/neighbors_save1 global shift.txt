@@ -1,0 +1,539 @@
+==========
+WORD: lefty
+----------
+RIGHT DISTINCT:
+far-leftist, feminazi, lefist, left-leaning, left-wing, left-winger, leftard, leftest, leftie, leftish, leftists, leftoid, leftwing, liberal/democrat, liberal/leftist, librul, libtarded, prog, progressive, righty, shitlib, ultra-left
+
+COMMON:
+commie, far-left, lefties, leftist, lib, liberal, libtard, sjw
+
+LEFT DISTINCT:
+agnostic, conservative, contrarian, die-hard, diehard, facist, hardcore, hippie, hippies, hive, incels, jk, liberals, libertarian, looney, marxist, neoliberals, nutty, self-proclaimed, socialist, trumpets, winger
+
+
+==========
+WORD: sjws
+----------
+RIGHT DISTINCT:
+blue-haired, commies, edgelords, feminazis, fruitcakes, karens, left-wingers, leftoids, lunatics, marxists, morons, pinkos, progressives, regressives, shitlibs, sjw's, sjw’s, soyboys, terfs, whackjobs, wokes, wokesters, woketards, wokies
+
+COMMON:
+feminists, lefties, leftists, liberals, libtards, sjw
+
+LEFT DISTINCT:
+anarchists, berners, conservatives, correctness, hippies, homophobes, incels, libtard, misogynists, nationalists, nazi's, nutjobs, pc, radicals, reactionaries, retards, right-wingers, righties, socialists, stereotyping, teabaggers, trumpers, trumpets, woke
+
+
+==========
+WORD: maga
+----------
+RIGHT DISTINCT:
+beanie, camo, chud, kag, maga, magats, merch, mullet, neonazi, pro-trump, resist, romney/ryan, shirt, skinhead, swag, swastika, t-shirt, tea-party, tiki, tin-foil, trump/pence, trump2020, trumpster, tshirt, tshirts, waldo, wearing
+
+COMMON:
+hat, hats, tinfoil
+
+LEFT DISTINCT:
+anti-vax, brainless, cheered, crazed, cult, cultist, cultists, foil, gqp, inbred, incel, incels, loon, loons, magat, neo-nazis, q, qanon, t-shirts, tin, trumper, trumpers, trumpets, trumpist, trumpy, wingnut, zombies
+
+
+==========
+WORD: antiamerican
+----------
+[!] 'antiamerican' not in LEFT model
+
+==========
+WORD: rioters
+----------
+RIGHT DISTINCT:
+agitators, anarchists, anitfa, antifa/blm, arsonists, blm/antifa, blmers, counter-protesters, criminals, demonstrators, looters, peaceful, protestor, rioter, rioters, rioting/looting, thugs, trespassers, vandals
+
+COMMON:
+antifa, insurrectionists, mobs, protesters, protestors, protests, riot, rioting, riots, seditionists, terrorists
+
+LEFT DISTINCT:
+1/6, attackers, blm, capitol, cops, defendants, gassed, incited, insurgents, j6, looting, perpetrators, protester, rittenhouse, siege, stormed, storming, traitors, vandalism
+
+
+==========
+WORD: lefts
+----------
+[!] 'lefts' not in LEFT model
+
+==========
+WORD: leftist
+----------
+RIGHT DISTINCT:
+commie, far-leftist, gt;liberal, hard-left, lefist, leftard, leftest, leftie, leftish, leftoid, leftwing, lib, liberal/democrat, liberal/leftist, liberal/progressive, libtard, prog, rightist, shitlib, ultra-left
+
+COMMON:
+far-left, left-wing, leftists, lefty, liberal, marxist, progressive, right-wing, sjw, wing
+
+LEFT DISTINCT:
+anarchism, anarchist, center-left, centrist, communist, conservative, extremist, far-right, feminist, idealist, left-leaning, liberals, libertarian, mainstream, noam, radical, reactionaries, right-leaning, self-proclaimed, socialist
+
+
+==========
+WORD: leftists
+----------
+RIGHT DISTINCT:
+authoritarians, commies, gt;liberals, left-wingers, leftards, leftoids, leftys, liberals/democrats, libs, libtards, marxists, non-liberals, progs, regressives, rightists, shitlibs, sjw's, statists, trumpists
+
+COMMON:
+communists, conservatives, feminists, lefties, leftist, liberals, progressives, right-wingers, sjws, socialists, wingers
+
+LEFT DISTINCT:
+anarchists, berners, berniecrats, centrists, democrats, far, far-left, hippies, left, libertarians, neoliberals, nutjobs, populists, reactionaries, righties, sjw, supporters, teabaggers, trumpets
+
+
+==========
+WORD: libs
+----------
+RIGHT DISTINCT:
+commies, cons, conservatards, demorats, dems, leftards, leftists, leftoids, lefty's, leftys, lefty’s, libbies, libruls, libturds, progressives, progs, shitlibs, tards, trumpkins, y'all
+
+COMMON:
+lefties, lib, liberals, libtard, libtards, righties, trumpies, trumptards, yall, y’all
+
+LEFT DISTINCT:
+amirite, aw, cuz, duh, dummies, groomers, libs, lmfao, lol, ouch, own, sheeple, snowflakes, soooo, teh, trumpers, trumpets, uhhh, xd, yer
+
+
+==========
+WORD: woke
+----------
+RIGHT DISTINCT:
+broke, dimocrat, hipster, hollyweird, intersectional, intersectionality, preachy, progressive, sanctimonious, self-hating, self-righteous, signalers, signaling, signalling, sjw's, sjw’s, virtue, wokeism, wokeness, wokes, wokest, wokesters, woketards, wokies, wokism, yuppie
+
+COMMON:
+pc, sjw, sjws, woke
+
+LEFT DISTINCT:
+anarchist, anarchists, anxious, boogeyman, commie, culture, edgy, facist, hippies, lasers, left, lefty, liberals, libtard, libtards, marxism, nationalistic, nutty, ranting, right, sheeple, slur, snowflake, trumpets, wake, waking
+
+
+==========
+WORD: farleft
+----------
+[!] 'farleft' not in LEFT model
+
+==========
+WORD: supremacy
+----------
+RIGHT DISTINCT:
+alt-right, chauvinism, fragility, islamaphobia, naziism, neo-nazi, oppression, privilege, rascism, supremacism, supremacy, supremecist, supremecists, supremecy, supremist, supremists, systemic, white-supremacist, whiteness
+
+COMMON:
+anti-semitism, homophobia, nationalism, nationalist, nationalists, nazism, neo-nazis, patriarchy, racism, supremacist, supremacists
+
+LEFT DISTINCT:
+antisemitic, antisemitism, authoritarianism, bigotry, domination, embraces, eugenics, fascism, fundamentalism, hierarchy, imperialism, institutionalized, misogyny, nationalistic, protestant, sexism, spencer, thinly, xenophobia
+
+
+==========
+WORD: rightwing
+----------
+RIGHT DISTINCT:
+altright, anti-left, centralist, extremist, far, fringe, gt;conservative, leaning, left-leaning, left-of-center, leftish, leftwing, lefty, mainstream, neo-fascist, non-left, non-leftist, right-leaning, rightist, ultra-left
+
+COMMON:
+alt-right, conservative, far-left, far-right, left-wing, leftist, liberal, nationalist, right-wing, wing
+
+LEFT DISTINCT:
+anti-american, anti-democracy, anti-democratic, anti-government, brainless, conspiratorial, crazed, diarrhea, fearmongering, incel, incels, jive, news, reactionary, right's, righties, rw, trumpie, trumpies, wingnut
+
+
+==========
+WORD: hamas
+----------
+RIGHT DISTINCT:
+al-qaida, aq, boko, daesh, fatah, hezbollah, houthis, idf, iran, irgc, isil, isreal, kurds, pkk, plo, queda, sdf, terrorists
+
+COMMON:
+al-qaeda, assad, gaza, isis, israel, israeli, israelis, palestine, palestinian, palestinians, qaeda, taliban
+
+LEFT DISTINCT:
+anti-semitic, arabia, arabs, egypt, genocidal, insurgents, iranian, israel's, netanyahu, nk, pakistan, rebels, regimes, sa, saddam, saudi, syria, yemen
+
+
+==========
+WORD: patriots
+----------
+RIGHT DISTINCT:
+anti-americans, badasses, canucks, constitutionalists, countryman, cowboys, freedom-loving, hero’s, individualists, insurrectionists, magas, patriots, pedes, red-blooded, redcoats, revolutionaries, rinos, seahawks, statesmen, steelers, turncoats, tyrants, warriors, yankees
+
+COMMON:
+commies, fascists, heroes, patriot, patriotic, traitors
+
+LEFT DISTINCT:
+anarchists, angels, authoritarians, christians, communists, confederates, conservatives, cultists, defenders, exceptionalism, idol, liberals, libtards, magats, nazis, patriotism, retards, self-proclaimed, snowflakes, suckers, trumpets, trumpists, unpatriotic, villains
+
+
+==========
+WORD: progressive
+----------
+RIGHT DISTINCT:
+collectivist, egalitarian, hard-left, leftish, leftwing, lefty, liberal/leftist, liberal/progressive, marxist, neo-conservative, progressiveness, radical, redistributionist, regressive, sjw, socialist/communist, statist
+
+COMMON:
+centrist, conservative, democrat, far-left, left-wing, leftist, liberal, moderate, neoliberal, progressive, progressives, progressivism, socialist
+
+LEFT DISTINCT:
+anti-war, bernies, center-left, center-right, centrism, corporatist, dem, democratic, dino, electable, idealist, likeable, milquetoast, populist, pragmatic, sanders, warren
+
+
+==========
+WORD: bigot
+----------
+RIGHT DISTINCT:
+ableist, anti-semite, biggot, bigot, colonizer, islamaphobic, islamophobe, islamophobic, nazi, phobic, rascist, sexists, shitlord, terf, transphobe, transphobes, xenophobe
+
+COMMON:
+bigoted, bigots, hater, homophobe, homophobes, homophobic, hypocrite, misogynist, misogynistic, misogynists, racist, sexist, transphobic
+
+LEFT DISTINCT:
+asshole, cunt, egotistical, facist, hateful, intolerant, liar, libtard, pompous, prejudiced, prick, rino, shitbag, slur, slut, xenophobic, zealot
+
+
+==========
+WORD: traitor
+----------
+RIGHT DISTINCT:
+bigot, bowe, cocksucker, commie, coward, deserter, flip-flopper, lier, loser, pos, pretender, rino, sell-out, sellout, shitbird, stooge, traitor, treason, turncoat, warmonger
+
+COMMON:
+crook, disgrace, insurrectionist, liar, moron, scumbag, sympathizer, traitorous, traitors, treasonous
+
+LEFT DISTINCT:
+abetting, bastard, conman, dodger, fuckwit, grifter, menace, mf, pedo, pervert, psychopath, seditious, shitbag, subhuman, sycophant, thief, thug, twat, twit, tyrant
+
+
+==========
+WORD: pedophile
+----------
+RIGHT DISTINCT:
+adulterer, assaulter, cannibal, cheater, creeper, diddler, diddlers, groomer, groper, kiddy, molester, molesters, paedophile, paedophiles, pedo's, pedophilic, pedos, perv, sicko, trafficker, womanizer
+
+COMMON:
+abuser, murderer, pedo, pedophiles, pedophilia, pervert, predator, rapist, scumbag
+
+LEFT DISTINCT:
+closeted, cuck, degenerate, demon, demonic, gaetz, groomers, grooming, hater, liar, misogynist, molesting, nugent, nutcase, offender, owens, prostitute, rafael, rapes, shithead, slut
+
+
+==========
+WORD: rioting
+----------
+RIGHT DISTINCT:
+anitfa, antifa/blm, arson, blm/antifa, lawlessness, looters, lootings, mayhem, peacefull, protest, protesters, protests/riots, rioted, rioting/looting, riotous, terrorizing, vandalizing
+
+COMMON:
+antifa, demonstrations, looting, peaceful, protesting, protestors, protests, riot, rioters, riots, storming, vandalism, violence
+
+LEFT DISTINCT:
+arresting, blm, brutality, ferguson, gassed, gassing, killings, lynching, non-violent, ows, perpetrators, portland, protester, siege, stormed, streets, trespassing
+
+
+==========
+WORD: looting
+----------
+RIGHT DISTINCT:
+arson, blm/antifa, firebombing, looted, looters, lootings, loots, mayhem, mobbing, mostly, peaceful, pillaging, protest, rioting/looting, robbing, storefronts, theft, torching, vandalizing
+
+COMMON:
+burning, lawlessness, loot, protesting, protestors, protests, riot, rioters, rioting, riots, vandalism
+
+LEFT DISTINCT:
+arresting, baltimore, blm, condoning, demonstrations, gassed, gassing, killings, lynching, murdering, perpetrators, rampage, robbery, siege, spree, stabbing, storming, torturing, violence
+
+
+==========
+WORD: latinos
+----------
+RIGHT DISTINCT:
+americans, asian-americans, brazilians, filipinos, guatemalans, haitians, hawaiians, hondurans, independents, islanders, italians, latinas, minorites, non-hispanic, ricans
+
+COMMON:
+african-americans, asians, blacks, catholics, cubans, evangelicals, hispanic, hispanics, immigrants, latino, latinx, mexicans, minorities, non-whites, whites
+
+LEFT DISTINCT:
+29, african, black, christians, demographics, disaffected, gays, monolith, mormons, muslims, natives, non-white, poc, southerners, voters
+
+
+==========
+WORD: catholics
+----------
+RIGHT DISTINCT:
+agnostics, athiests, baptists, bishops, buddhists, catholicism, christian's, christian’s, church, denominations, hindus, lutherans, non-christians, pagans, priests, protestantism, protestants, religions
+
+COMMON:
+atheists, catholic, christian, christianity, christians, devout, evangelicals, jews, mormons, muslims, orthodox, protestant
+
+LEFT DISTINCT:
+agnostic, atheist, baptist, conservatives, cousins, cubans, europeans, evangelical, fundamentalist, fundamentalists, hispanics, homophobes, homosexuals, judaism, latinos, pastors, pro-lifers, southerners
+
+
+==========
+WORD: shapiro
+----------
+RIGHT DISTINCT:
+affleck, bongino, klavan, knowles, levin, molyneux, prager, sasse, shapiro's, shapiros, shapiro’s, shaprio, steyn, vdh, walsh
+
+COMMON:
+beck, ben, candace, carlson, carson, cenk, coulter, crowder, kirk, milo, owens, peterson, rubin, steven, tucker
+
+LEFT DISTINCT:
+alex, cain, chomsky, dave, fetterman, glenn, greenwald, hayes, ingraham, matthews, noam, o'reilly, podcasts, rogan, thom
+
+
+==========
+WORD: transgender
+----------
+RIGHT DISTINCT:
+bisexual, dysphoric, ftm, gay/trans, intersex, male-to-female, mtf, non-binary, non-trans, trannies, tranny, trans-women, transexual, transexuals, transgender, transgendered, transgenderism, transgenders, transpeople, transsexual, transsexuals, transwoman, transwomen
+
+COMMON:
+dysphoria, gay, gender, lgbt, lgbtq, queer, trans
+
+LEFT DISTINCT:
+affirming, african-american, bathrooms, cis, closeted, disabilities, discriminating, discrimination, ends, genitals, heterosexual, homosexual, hormone, interracial, lesbian, orientation, pedophilia, preexisting, puberty, rescinds, therapy, transitioning, women’s
+
+
+==========
+WORD: immoral
+----------
+RIGHT DISTINCT:
+abominable, barbaric, detestable, evil, hypocritical, immorality, immorally, repulsive, selfish, sinful, un-conservative, unchristian, unconscionable, unconservative, unconstitutional, unjustifiable, unnatural
+
+COMMON:
+abhorrent, amoral, cruel, despicable, exploitative, inhumane, morally, reprehensible, repugnant, un-american, unamerican, unethical, unjust
+
+LEFT DISTINCT:
+degenerate, disgraceful, dishonest, ethically, grotesque, heartless, illegal, indefensible, monstrous, pathological, prejudiced, profoundly, psychopathic, reckless, self-centered, tantamount, unpatriotic
+
+
+==========
+WORD: left
+----------
+RIGHT DISTINCT:
+alt-left, centralist, democrats, dems, left's, left-of-center, left-wing, leftie, leftish, lefts, leftward, leftwing, lefty, otherside, progressives, regressives, right/left
+
+COMMON:
+center, centrists, far-left, left, lefties, leftist, leftists, liberal, liberals, right, rightward, wing, wingers
+
+LEFT DISTINCT:
+center-left, center-right, centre, centrism, centrist, drift, far, fringes, furthest, moderate, moderates, overton, populists, progressive, radicals, right-leaning, wingnuts
+
+
+==========
+WORD: prochoice
+----------
+[!] 'prochoice' not in LEFT model
+
+==========
+WORD: dysphoria
+----------
+RIGHT DISTINCT:
+adhd, anorexia, cross-sex, dsm, dsm-5, dysmorphia, dysphoria, dysphoric, gender/sex, gid, hrt, intersex, mental, reassignment, schizophrenia, trans, transgender, transgendered, transgenderism, transpeople, transsexualism
+
+COMMON:
+disorder, disorders, gender, hormone, hormones, illness, illnesses, puberty, transitioning
+
+LEFT DISTINCT:
+affirming, autism, bipolar, chronic, clinical, complications, cosmetic, diabetes, diagnosed, diagnosis, distress, genetic, genetics, medically, preexisting, psychological, surgeries, testosterone, therapy, trauma, treatments
+
+
+==========
+WORD: gangs
+----------
+RIGHT DISTINCT:
+bangers, bloods, carjackings, communities, crips, gangbanger, gangbangers, gangsters, ghettos, hoodlums, ms-13, ms13, narco, neighbourhoods, roving, shootouts, smugglers, stabbings, traffickers, trafficking, vigilantes, warlords
+
+COMMON:
+cartel, cartels, criminals, dealers, gang, mafia, neighborhoods, thugs
+
+LEFT DISTINCT:
+addicts, descendants, drugs, groups, guns, heroin, insurgents, kidnapping, militarized, militias, nationalists, natives, non-violent, nonviolent, predators, rapists, smuggling, supremacists, sympathizers, thieves, thug, violent
+
+
+==========
+WORD: supremacist
+----------
+RIGHT DISTINCT:
+altright, chauvinist, extremist, neo-fascist, neo-nazi's, neonazi, racists, rascist, skinhead, supremacism, supremacist, supremecist, supremecists, supremecy, supremist, supremists, tarrio, trumptard, white-supremacist
+
+COMMON:
+alt-right, far-right, fascist, misogynist, nationalist, nationalists, nazi, neo-nazi, racist, supremacists, supremacy
+
+LEFT DISTINCT:
+anti-semitic, antisemitic, bigoted, clan, facist, homophobic, incel, insurrectionist, kkk, marxist, misogynistic, nationalistic, neo, neo-nazis, spencer, sympathizer, sympathizers, terrorist, xenophobic
+
+
+==========
+WORD: homosexuality
+----------
+RIGHT DISTINCT:
+aberrant, beastiality, bestiality, crossdressing, deviance, deviancy, fornication, gayness, heterosexuality, marraige, orientation, paedophilia, pedophelia, polyamory, polygamous, polygamy, pre-marital, premarital, promiscuity, same-sex, sodomy, ssm, transgenderism, transsexualism
+
+COMMON:
+christianity, gay, homosexual, homosexuals, pedophilia, sexuality
+
+LEFT DISTINCT:
+abortion, abstinence, anti-lgbt, atheism, atheists, attraction, creationism, discriminating, dysphoria, gays, homophobia, incest, interracial, intolerance, judaism, marrying, pro-life, pro-lifers, satanic, scripture, sin, taboo, teachings, tolerating
+
+
+==========
+WORD: latino
+----------
+RIGHT DISTINCT:
+asian-american, biracial, black/hispanic, caucasian, cuban-american, filipino, half-black, islander, jamaican, latina, latinas, mexican-american, mixed-race, non-hispanic, nonwhite, rican, white
+
+COMMON:
+african, african-american, asian, black, hispanic, hispanics, immigrant, latin, latinos, latinx, mexican, non-white, poc
+
+LEFT DISTINCT:
+aa, african-americans, ancestry, asians, indigenous, lesbian, low-income, millennial, minority, muslim, native, non-whites, predominantly, suburban, texan, working-class, young
+
+
+==========
+WORD: israeli
+----------
+RIGHT DISTINCT:
+abbas, egyptian, hungarian, idf, iraqi, israels, israel’s, isreal, jordanian, pakistani, plo, qatari, taiwanese, yemeni, zionist
+
+COMMON:
+afghan, arab, british, gaza, hamas, iranian, israel, israel's, israelis, palestine, palestinian, palestinians, saudi, turkish, ukrainian
+
+LEFT DISTINCT:
+al-qaeda, antisemitic, apartheid, arabs, covert, dutch, embassy, german, italian, jerusalem, mbs, netanyahu, russian, syrian, zelensky
+
+
+==========
+WORD: conservative
+----------
+RIGHT DISTINCT:
+centralist, conservative-leaning, conservative/libertarian, conservative/republican, constitutionalist, conversative, gt;conservative, left-of-center, liberal/leftist, liberal/progressive, libertarian-leaning, libertarian/conservative, minarchist, neo-conservative, non-conservative, non-liberal, paleocon, paleoconservative, republican/conservative
+
+COMMON:
+centrist, conservatism, conservative, conservatives, left-leaning, liberal, libertarian, moderate, progressive, republican, right-leaning
+
+LEFT DISTINCT:
+anti-vax, center-left, conservativism, democrat, devout, evangelical, far-left, far-right, hardline, leaning, left-wing, leftist, lefty, lib, nutty, repub, right-wing, rightwing, wing
+
+
+==========
+WORD: conservatives
+----------
+RIGHT DISTINCT:
+conservatives/republicans, conservativism, democrats/liberals, gt;conservatives, liberals/democrats, neo-cons, neo-conservatives, nevertrumpers, non-liberals, paleocons, paleoconservatives, republicans/conservatives, traditionalists
+
+COMMON:
+centrists, conservatism, conservative, conservatives, democrats, evangelicals, lefties, leftists, liberals, libertarians, moderates, neocons, partiers, progressives, republicans, right-wingers, wingers
+
+LEFT DISTINCT:
+anarchists, authoritarians, catholics, dems, fascists, fundamentalists, pro-lifers, reactionaries, sjws, teabaggers, trumpers, trumpists, trumpsters
+
+
+==========
+WORD: fascist
+----------
+RIGHT DISTINCT:
+altright, anti-fascist, antifascist, brownshirt, communistic, facism, facists, fascist, fascistic, mussolini, mussolini's, nazi's, nazis, neo-fascist, socialist, stalinist
+
+COMMON:
+anti-democracy, authoritarian, communist, dictator, dictatorship, facist, fascism, fascists, nationalist, nazi, supremacist, totalitarian, tyrannical, tyrant
+
+LEFT DISTINCT:
+authoritarians, autocratic, benevolent, dictatorial, genocidal, imperialist, monarchy, murderous, nationalistic, plutocracy, racist, sympathizer, theocracy, theocratic, traitorous, treasonous
+
+
+==========
+WORD: bigotry
+----------
+RIGHT DISTINCT:
+ableism, ageism, bigoted, chauvinism, classism, expectations, irrationality, islamaphobia, islamophobia, malevolence, misandry, self-hatred, semitism, supremacism, transphobia
+
+COMMON:
+anti-semitism, antisemitism, discrimination, extremism, hatred, homophobia, hypocrisy, ignorance, intolerance, misogyny, oppression, prejudice, racism, sexism, xenophobia
+
+LEFT DISTINCT:
+conservativism, cowardice, demagoguery, elitism, fundamentalism, idiocy, institutionalized, intolerant, lawlessness, overt, prejudices, selfishness, tolerating, toxicity, tribalism
+
+
+==========
+WORD: activist
+----------
+RIGHT DISTINCT:
+abolitionist, activist, agitator, anti-2nd, anti-constitution, civil-rights, environmentalist, extremist, feminazi, feminist, greenpeace, gt;conservative, gt;liberal, hard-left, ideologue, ideologues, judges, jurists, militant, pro-lgbt, pro-trans, sjw, sonia, sullivan, trump-appointed, ultra-left
+
+COMMON:
+activism, activists, advocacy, anti-abortion
+
+LEFT DISTINCT:
+academics, allen, anti-choice, anti-gay, anti-lgbt, avid, columnist, conservative, consultant, critic, david, devout, founder, fundraiser, griffin, howard, icon, legislator, molesting, naacp, nutcase, organizer, orgs, prominent, rogers, samuel
+
+
+==========
+WORD: hispanic
+----------
+RIGHT DISTINCT:
+asian-american, biracial, black/hispanic, caucasian, cuban-american, filipino, half-black, hispanic, jamaican, latina, latinas, mexican-american, mixed-race, non-black, non-hispanic, nonwhite, rican
+
+COMMON:
+african, african-american, asian, black, hispanics, immigrant, latino, latinos, latinx, mexican, non-white, poc, white
+
+LEFT DISTINCT:
+13, 27, 29, 52, 54, 55, aa, african-americans, ancestry, asians, cuban, ethnicity, indigenous, muslim, predominantly, republican, suburban
+
+
+==========
+WORD: genocide
+----------
+RIGHT DISTINCT:
+armenian, armenians, dehumanization, enslavement, expansionism, exterminating, extermination, genocide, genocided, genocides, genociding, holodomor, infanticide, massacres, murder, pogroms, rwandan, serbs, slaughter, subjugation, tibetans, undesirables, uyghur, uyghurs
+
+COMMON:
+atrocities, atrocity, cleansing, genocidal, holocaust, imperialism
+
+LEFT DISTINCT:
+adolf, africa, antisemitism, apartheid, arabs, concentration, condoning, coups, eugenics, famine, gassing, germans, institutionalized, internment, israel's, israelis, murderer, nazism, palestine, palestinian, tantamount, terrorism, war, yemen
+
+
+==========
+WORD: protesting
+----------
+RIGHT DISTINCT:
+anti-lockdown, counter-protest, kneelers, peaceful, peacefull, picketing, protest/riot, protesting, protestor, protests/riots, riot, rioted, rioters, rioting/looting, vandalizing
+
+COMMON:
+blm, demonstrations, kneeling, looting, marched, marches, marching, peacefully, protest, protested, protesters, protestors, protests, rioting, storming
+
+LEFT DISTINCT:
+arresting, boycotting, chanting, denouncing, fighting, gassed, gassing, jailing, kneel, portland, protester, resisting, riots, stormed, vandalism
+
+
+==========
+WORD: liberals
+----------
+RIGHT DISTINCT:
+atheists, conservatives/republicans, democrats/liberals, gt;liberals, left-wingers, lefty's, leftys, liberals/democrats, libs, non-liberals, progs, regressives, republicans/conservatives, rightists, shitlibs, sjw's
+
+COMMON:
+conservatives, democrats, feminists, lefties, leftists, liberals, libertarians, libtards, progressives, republicans, right-wingers, righties, sjws, wingers
+
+LEFT DISTINCT:
+anarchists, berners, berniebros, centrists, commies, communists, dems, hippies, homophobes, liberal, moderates, neoliberals, partiers, people, socialists, teabaggers
+
+
+==========
+WORD: nationalism
+----------
+RIGHT DISTINCT:
+chauvinism, collectivism, facism, globalism, individualism, internationalism, islamism, isolationism, jingoism, militarism, monarchism, nationalism, naziism, non-interventionism, protectionism, supremacism, traditionalism, ultranationalism, zionism
+
+COMMON:
+authoritarianism, exceptionalism, fascism, imperialism, nationalist, nationalistic, nationalists, nazism, patriotism, populism, supremacy
+
+LEFT DISTINCT:
+anti-semitism, antisemitism, centrism, conservatism, conservativism, eugenics, fundamentalism, hegemony, homophobia, judaism, narcissism, patriarchy, racism, republicanism, supremacist, supremacists, symbols, tribalism, xenophobia
+

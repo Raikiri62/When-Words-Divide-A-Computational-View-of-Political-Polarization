@@ -1,0 +1,1295 @@
+================================================================================
+WORD: abiding
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+breakers, citizens, criminals, disarming, disarms, enforcement, freedomloving, gunowners, gunowning, guns, incarcerating, lawbreakers, noncriminals, peaceable, selfprotection, taxpaying, usborn
+
+COMMON:
+detaining, lawabiding, upstanding
+
+LEFT DISTINCT:
+acquiring, criminalizing, defenseless, disarm, enforceable, homeowners, immigrate, injure, intoxicated, lawfully, licensed, noncitizens, possessing, purchaser, rightful, safes, unlawfully
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+citizens, criminals, deputizing, disarms, enforcement, enforcment, gangbangers, gunowners, gunowning, hardworking, lawful, noncriminals, nongun, nonlaw, ordinary, peoplebusinesses, taxpaying
+
+COMMON:
+disarm, disarming, lawabiding
+
+LEFT DISTINCT:
+cherish, codified, detaining, disarmed, enforcers, hardened, humanely, immigrating, incarcerate, legislated, penalize, pocs, poes, punishes, subdue, unjustly, untrained
+
+
+
+================================================================================
+WORD: abrams
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+adm, apcs, battleships, boyd, browning, elliott, fitzgerald, garand, jerome, joyce, raf, raymond, recon, reconnaissance, rnd, stinger, tomahawks, usaf, usn, winchester
+
+COMMON:
+None
+
+LEFT DISTINCT:
+airplane, baghdad, bharara, bryan, bryce, clay, coats, colonel, gowdy, hq, jake, kgb, lamb, loughner, norman, novice, pierce, robinson, seals, stealth
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+abrahams, bennet, bradleys, diehl, gillibrands, hildabeast, kampala, keisha, kemp, klob, klobachar, morrisey, osoff, spanberger, stabenow, strahan, wassermanschultz
+
+COMMON:
+demings, stacey, stacy
+
+LEFT DISTINCT:
+beto, bottoms, cunningham, duckworth, fighthttpsfairfightcom, gideon, gillum, gretchen, hegar, ossof, ossoff, razorthin, sara, takeaways, val, warnock, whitmer
+
+
+
+================================================================================
+WORD: activists
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+activism, agitators, campaigners, civilrights, crybullies, gayrights, gaystapo, ideologues, nutbags, organizers, prolgbt, propalestinian, protesters, racebaiters, ultrareligious, whackjobs
+
+COMMON:
+activist, kooks, movement, movements
+
+LEFT DISTINCT:
+advocacy, antiwomen, blacklivesmatter, blm, denigrate, environmentalists, fuckwits, gamergate, glbt, indivisible, marches, panther, panthers, pastors, protestors, weirdos
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+academics, agressively, crybullies, dogooders, ecoterrorists, footsoldiers, idealogues, ideologues, lgbtqlmnop, moonbats, proislam, propagandists, protesters, riotslootingarson, shmucks, tra, transexclusionary, transrights
+
+COMMON:
+activism, activist
+
+LEFT DISTINCT:
+abolitionist, agitators, antiracism, antiwar, coopt, demonstrators, desegregation, influencers, lgbtqia, marches, movements, newsmedia, organizers, prolgbt, rabidly, sunrise, visibly, vocally
+
+
+
+================================================================================
+WORD: african
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+aboriginal, aboriginals, asianamerican, black, coloured, darkskinned, filipino, hawaiians, islander, islanders, lightskinned, nonhispanic, oriental, subcontinent, subsaharan, sudanese, tribesmen
+
+COMMON:
+africanamerican, asian, native
+
+LEFT DISTINCT:
+africanamericans, africans, ancestry, asians, caucasian, descent, europeans, indians, innercity, irish, italians, latin, latino, latinos, natives, nigerian, youths
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+africa, asain, blackafrican, congolese, ghanaian, hispaniclatino, jamaicans, mestizo, noneuropean, poc, subsaharan
+
+COMMON:
+africanamerican, africanamericans, asian, black, hispanic, indian, latino, native, nonwhite
+
+LEFT DISTINCT:
+africans, ancestor, ancestry, caucasian, enslaving, indians, indigenous, latinos, latinx, natives, vietnamese
+
+
+
+================================================================================
+WORD: aisle
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+aisles, bipartisanship, centralist, compromise, compromises, erring, extremes, knuckleheads, partisans, politicians, pragmatists, resolutely, ryanmcconnell, side, spectrums, thorn
+
+COMMON:
+fence, isle, sides, spectrum
+
+LEFT DISTINCT:
+cheerleading, coin, compatriots, directions, figureheads, flopped, flopping, fringes, opposites, polarize, pond, pragmatism, purists, rinos, satisfies, tosses
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+both, boths, compromise, erring, extremes, fringes, jmo, parties, persuasions, repubicans, side, spectrums, straddle
+
+COMMON:
+aisles, bipartisanship, fence, isle, pond, sides, spectrum
+
+LEFT DISTINCT:
+berate, breadth, distasteful, err, flopping, gtboth, obstructionists, opposites, rubicon, sitters, stalwarts, uninterested, wishy
+
+
+
+================================================================================
+WORD: allowed
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+allow, allows, aloud, compelled, deign, disallowed, gtallow, gtallowing, gtbusinesses, gtforcing, let, letting, obligate, unmolested
+
+COMMON:
+able, allowing, encouraged, forced, obligated, permitted
+
+LEFT DISTINCT:
+bound, conscientious, daring, excluded, exempted, gtshould, hesitate, obliged, outlaws, permissible, posses, registers, responsibly, tolerated
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+allow, allows, aloud, authorized, cancant, canshould, decreeing, legaly, letem, penalised, required, restricted, wontcant
+
+COMMON:
+able, allowing, encouraged, let, letting, obligated, permitted
+
+LEFT DISTINCT:
+compel, compelled, conflated, depriving, destined, forced, grandfathered, gtlol, icc, lamenting, silenced, tolerated, unrestricted
+
+
+
+================================================================================
+WORD: amnesty
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+amnestied, amnesties, antiamnesty, clemency, dapa, dreamers, immigration, legalization, mccainfeingold, obamacarelite, pathway, proamnesty, reneged, repealreplace, selfdeportation, touchback, tpa
+
+COMMON:
+daca, deporting, illegals
+
+LEFT DISTINCT:
+birthright, deportation, detention, enactment, glasssteagal, hb, indefinite, moratorium, naturalization, noncitizens, reinstating, rendition, undocumented, visa, visas, vra, warrantless
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+amnesties, citizenship, citizenships, daca, dreamer, dreamers, freebies, hartceller, hatians, illegals, immagrants, immigrants, immigration, irca, naturalize, openborders, selfdeport, statehood, tps
+
+COMMON:
+deportations
+
+LEFT DISTINCT:
+boarders, centres, checkpoints, crackdown, crossings, decriminalizing, deporting, detaining, detentions, hondurans, invasions, occupations, overstay, overstayed, overstaying, seekers, unauthorized, unlawfully, usmexico
+
+
+
+================================================================================
+WORD: arabia
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+algeria, arabias, bahrain, burma, emirates, iran, ksa, malaysia, morocco, oman, pakistan, saudia, uae, wahhabism
+
+COMMON:
+egypt, kuwait, qatar, saudi, saudis, turkey
+
+LEFT DISTINCT:
+bangladesh, contra, hijackers, lebanon, mali, nigeria, palestine, philippines, romania, sa, serbia, sudan, syria, ukraine
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+arabians, arabias, azerbaijan, gcc, iran, ksa, kuwait, morocco, oman, pakistan, saudia, tajikistan, turkmenistan, uzbekistan
+
+COMMON:
+qatar, saudi, saudis, sudan, uae, yemen
+
+LEFT DISTINCT:
+egypt, emirates, erdogan, hezbollah, hijackers, israelis, isreal, mbs, nigeria, philippines, romania, serbia, somalia, tehran
+
+
+
+================================================================================
+WORD: army
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+airforce, airmen, armys, battalion, cavalry, corps, infantryman, medic, military, nco, peshmerga, platoon, squadron, ypg
+
+COMMON:
+armies, infantry, insurgency, marine, marines, navy
+
+LEFT DISTINCT:
+armored, arsenal, artillery, battlefield, cannons, enlisted, fighters, mercenaries, militias, naval, salvation, servicemen, ships, soldiers
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+airforce, armys, battalions, commandos, conscripts, expeditionary, infantryman, infantrymen, navies, oef, paratrooper, qrf, reservist, reservists, usmc
+
+COMMON:
+armies, marines, military, navy, usaf
+
+LEFT DISTINCT:
+ana, blackwater, decorated, emt, enlisted, firefighter, infantry, marine, mercenaries, mercenary, naval, ng, paramilitary, recruits, soldier
+
+
+
+================================================================================
+WORD: attacking
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+antagonizing, assassinating, attack, belittling, bombarding, criticising, crucifying, defending, demonizing, deriding, lambasting, ragging, retaliating
+
+COMMON:
+attacked, bashing, berating, criticizing, ridiculing, slandering, trashing
+
+LEFT DISTINCT:
+applauding, chastising, decrying, demean, denigrating, disliking, figureheads, harassing, obsessing, scolding, smearing, viciously, vilifying
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+accosting, ambushing, assaulting, attacks, brutalizing, defending, guillotining, siccing, targeting, terrorising, villainizing
+
+COMMON:
+antagonizing, attack, attacked, bashing, berating, criticizing, harassing, slandering, trashing
+
+LEFT DISTINCT:
+assassinating, bagging, baselessly, berate, demonizing, denigrating, disparaging, lambasting, ridiculing, smearing, vilifying
+
+
+
+================================================================================
+WORD: bail
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+automakers, bails, bankrupcy, banks, bondholders, creditors, debtors, defaulted, fanniefreddie, gambled, gses, loaning, refinance, rescuing
+
+COMMON:
+aig, bailed, bailing, bailout, bailouts, loaned
+
+LEFT DISTINCT:
+banker, banksters, bribe, deposits, deregulate, deregulated, lenders, repay, shovel, speculators, squeeze, subprime, tanked, tarp
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+bails, bond, bondsman, depositor, disburse, funds, jail, jailprison, lockup, mff, parole, pretrial, raisers, rearrested, recognizance, reoffend, restitution
+
+COMMON:
+bailed, bailing, bailout
+
+LEFT DISTINCT:
+bankers, banks, bilking, creditors, deregulated, divest, execs, lenders, middleman, middlemen, pocketing, repay, restructure, stockholders, tarp, vendors, wallstreet
+
+
+
+================================================================================
+WORD: bankrupt
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+allin, awry, bails, bankrupcy, bankruptcy, bankrupts, berserk, bonkers, cripple, decrepit, extinct, insolvent, mismanaged, restructure, restructured, ruinous, selfdestruct, solvent
+
+COMMON:
+bankrupted, bankrupting
+
+LEFT DISTINCT:
+billing, cadillac, copays, deductibles, downhill, nationalize, repay, saddled, selfemployed, skyrocket, smoothly, trucking, unaffordable, underfunded, unnoticed, unprofitable, unscrupulous, unsustainable
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+bankruptcies, bankrupts, collapse, crippled, crippling, defunct, implodes, indebt, insolvent, mismanage, overextended, overpaying, overtax, premiums, profitdriven, recover, unsustainable
+
+COMMON:
+bankruptcy, bankrupted, bankrupting
+
+LEFT DISTINCT:
+afloat, bilking, casino, casinos, collections, defrauding, divest, gangster, hospice, middlemen, milking, multimillionaire, overpriced, profitable, ration, unaffordable, unnoticed
+
+
+
+================================================================================
+WORD: ben
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+benji, cernovich, crowder, gtben, klavan, klavans, klaven, knowles, loesch, lyfe, milo, nolte, politicon, sasse, sexton, shapiros, shaprio, yiannopolous
+
+COMMON:
+affleck, shapiro
+
+LEFT DISTINCT:
+canova, carly, carson, carsons, dave, hedges, herman, justin, louie, michele, nelson, neurosurgeon, phil, prager, rhodes, steven, stiglitz, tl
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+affleck, boreing, cardin, gtben, hodgetwins, jerrys, klaven, mcadams, ownes, rne, saad, sasses, shaprio, sharpio, stiller
+
+COMMON:
+carson, knowles, sasse, shapiro, shapiros
+
+LEFT DISTINCT:
+benny, candace, dave, dinesh, ingram, jerry, lahren, lou, matthews, milo, moran, olbermann, owens, peterson, steven
+
+
+
+================================================================================
+WORD: bigot
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+ableist, ageist, hatemonger, homophone, islamaphobe, islamaphobic, islamophobe, phobic, racistsexist, sexist, transphobe
+
+COMMON:
+bigoted, bigots, hater, homophobe, homophobic, misogynist, racist, transphobic, xenophobe
+
+LEFT DISTINCT:
+antisemite, coward, cuck, homophobes, hypocrite, imbecile, intolerant, islamophobic, misogynistic, shitbag, spade
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+biggot, bigots, bigotted, fatphobic, homophone, islamaphobe, mysoginist, phobe, phobic, racistbigot, rasict, shitlord, transphobe
+
+COMMON:
+bigoted, homophobe, homophobic, islamophobe, misogynist, sexist, transphobic
+
+LEFT DISTINCT:
+ableist, antisemite, cishet, dirtbag, facist, islamophobic, misogynistic, misogynists, poser, racist, slut, xenophobe, xenophobic
+
+
+
+================================================================================
+WORD: birth
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+abortifacient, abortifacients, bc, birthcontrol, birthing, births, csection, fertility, iud, iuds, morningafter, planb, vaginal, vasectomies
+
+COMMON:
+certificate, condoms, contraception, contraceptive, contraceptives, pregnancy
+
+LEFT DISTINCT:
+aborted, certificates, childbirth, condom, defects, dual, elective, lifesaving, motherhood, pill, pills, pregnancies, prenatal, uterus
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+abortifacient, abortifacients, birthcontrol, contraceptions, contraceptive, csections, iud, iuds, postnatal, prebirth, pregnancies, spermicide, ultrasounds, vasectomies, vasectomy
+
+COMMON:
+conception, condoms, contraception, contraceptives, pregnancy
+
+LEFT DISTINCT:
+aborted, aborting, certificate, certificates, childbirth, defects, embryo, hrt, infant, lifers, newborn, pregnant, prenatal, surgeries, unborn
+
+
+
+================================================================================
+WORD: blacks
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+asianamericans, black, caucasians, coloreds, disproportionally, gtblacks, minorites, negros, nonblacks, nonhispanic, socioeconomically, whiteblack
+
+COMMON:
+africanamericans, africans, asians, hispanics, latinos, minorities, nonwhites, whites
+
+LEFT DISTINCT:
+african, disenfranchises, gays, ghettos, incarcerated, indians, lesbians, natives, nonchristians, southerners, underprivileged, unjustly
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+african, asianamericans, caucasians, gtblacks, hispanicamericans, nonasians, nonblacks, nonminorities, nonwhite
+
+COMMON:
+africanamericans, asians, black, hispanics, latinos, minorites, minorities, nonwhites, poc, pocs, whites
+
+LEFT DISTINCT:
+africans, enslaving, gays, homosexuals, lesbians, lynched, mexicans, natives, nonchristians
+
+
+
+================================================================================
+WORD: bombing
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+airbase, airstrike, bali, beirut, bomber, bombs, carpet, dresden, firebombing, istanbul, madrid, mali, massacring, nagasaki, okc, raqqa
+
+COMMON:
+bomb, bombed, bombers, bombings
+
+LEFT DISTINCT:
+airstrikes, cambodia, jihadists, kurds, kuwait, lebanon, marathon, massacres, middleeast, nigeria, pakistan, serbia, slaughtering, sunni, torturing, yemen
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+airstrike, airstrikes, beirut, bomb, bomber, bombs, damascus, detonating, dresden, droned, droning, firebombing, lankan, nagasaki, riyadh, suleimani, usbacked
+
+COMMON:
+bombed, bombers, bombings
+
+LEFT DISTINCT:
+baghdad, consulate, destabilized, hezbollah, kuwait, mosque, nicaragua, normandy, salvador, slaughtering, somalia, stranded, sudan, syrians, turkish, twin, yemen
+
+
+
+================================================================================
+WORD: borders
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+americafirst, boarder, boarders, flank, floodgates, freetrade, gtbelieve, gtimmigration, immigration, islamification, mercantilist, multiculturism, openborders, porous, proopen, rapefugees, touchback, usmexico
+
+COMMON:
+border, mindedness
+
+LEFT DISTINCT:
+alliances, boundaries, caliphate, communes, customs, embassies, erect, gitmo, mosques, nationals, proximity, rebellions, seceding, settlements, sovereign, sovereignty, territorial, territory
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+dmz, fencewall, floodgate, gtimmigration, homelands, imigration, immagrants, immigration, nationstates, proimmigrant, schengen, souther, uscanada, usmexican, wideopen
+
+COMMON:
+boarder, boarders, border, floodgates, ports
+
+LEFT DISTINCT:
+amnesty, caravans, crossings, dmvs, gulags, immigrating, impractical, mexicos, mindedness, overstaying, rubicon, sanctuary, seekers, skies, usmexico
+
+
+
+================================================================================
+WORD: boycott
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+advertisers, bakeries, bds, blacklist, boycotted, boycotts, caterers, cfa, chic, chicfila, chickfila, chik, chikfila, counterprotest, fil, fila, panera, patronize, studios
+
+COMMON:
+boycotting
+
+LEFT DISTINCT:
+airlines, cancel, competitor, donuts, duopoly, feelthebern, hairs, infernohttpimgurcomayozbup, jive, mac, merge, nfl, parasitic, piper, publishers, rig, sentiments, splitting, stadiums
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+bampj, bbampb, boycot, boycotted, boycotters, buycott, cancel, canceling, cancelling, cocacola, divestment, gilette, goodyear, keurig, nbanfl, sephora, ticketmaster
+
+COMMON:
+boycotting, boycotts, patronize
+
+LEFT DISTINCT:
+advertiser, advertisers, billboards, coca, comcast, cowboys, dscc, exxon, hulu, nike, plaster, sponsors, starbucks, subscriptions, walgreens, winbothseats, woohoo
+
+
+
+================================================================================
+WORD: cabinet
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+ag, cabinetlevel, cabinets, czars, dag, highranking, nsc, pompeo, preibus, scj, secdef, secstate, shortlist, veep, vp, vps
+
+COMMON:
+appointees, appointing, appoints, nominees
+
+LEFT DISTINCT:
+advisors, appoint, appointee, appointment, appointments, banksters, betsy, cronies, nominates, pai, picks, rex, scotus, soninlaw, unqualified, vacancy
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+administration, appoint, cabinetlevel, cabinets, cheif, grenell, nonelected, reince, secdef, shortlist, soth, speechwriters, staff, tanden, tillerson, vpotus
+
+COMMON:
+appointees, appointing, appoints, vp
+
+LEFT DISTINCT:
+ambassadors, appointments, figurehead, highlevel, lackeys, loyalist, nominees, replacements, secretaries, selects, seniority, subordinates, successor, underlings, unqualified, vps
+
+
+
+================================================================================
+WORD: charity
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+donate, embezzle, lds, megachurches, ministries, needy, pantries, philanthropic, philanthropy, pocketing, selfless, tithe, tithes, tithing
+
+COMMON:
+benefactors, charitable, charities, donations, generosity, nonprofit
+
+LEFT DISTINCT:
+donates, donating, donation, generously, goodwill, haves, kidney, nonprofits, nots, org, orgs, pizzas, superrich, waltons
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+actblue, actblues, charitys, donate, donated, donating, donation, donations, fraudhttpsarchiveiswiphafw, insteadhttpssecuregivelivelyorgdonatepreventchildabuseamericapreventchildabuseamericarconservative, makeawish, philanthropic, tithe, tithes, tithing
+
+COMMON:
+charitable, charities, donates, nonprofit, nonprofits
+
+LEFT DISTINCT:
+coffers, creditors, defrauding, earmarked, monies, multimillion, payers, philanthropist, pocketed, pocketing, proceeds, scams, slush, ssa, taxpayer
+
+
+
+================================================================================
+WORD: china
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+belarus, chinas, chinese, dprk, embargoes, gtchina, iran, nepal, nk, nkorea, noko, phillipines, prc, sk, tibet
+
+COMMON:
+asia, india, japan, korea, taiwan
+
+LEFT DISTINCT:
+bangladesh, brazil, chile, cuba, ecuador, hong, imports, italy, kong, nicaragua, romania, singapore, tariff, ussr, venezuela
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+asia, beijing, chicoms, chinarussia, chine, chyna, gtchina, iran, numbah, prc, russiachina
+
+COMMON:
+ccp, chinas, chinese, india, japan, korea, nk, russia, taiwan
+
+LEFT DISTINCT:
+argentina, brazil, crimea, finland, hungary, italy, opec, poland, venezuela, wuhan, xi
+
+
+
+================================================================================
+WORD: christianity
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+christians, deism, hinduism, judeochristian, monotheism, monotheistic, paganism, pagans, protestantism, satanism, theism
+
+COMMON:
+abrahamic, atheism, buddhism, catholicism, islam, judaism, mormonism, religion, religions
+
+LEFT DISTINCT:
+denomination, doctrines, faiths, fundamentalism, gospels, inquisition, quran, scripture, sects, secularism, teachings
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+abrahamic, antitheism, buddhism, confucianism, hinduism, judeochristianity, monotheism, monotheistic, mormonism, paganism, protestantism, religions, sikhism, theistic
+
+COMMON:
+atheism, catholicism, christians, islam, judaism, religion
+
+LEFT DISTINCT:
+biblical, conservativism, denomination, denominations, evangelicals, faiths, fundamentalism, fundamentalist, jesuss, protestants, scripture, sects, teachings, whiteness
+
+
+
+================================================================================
+WORD: christie
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+bridgegate, carson, cristie, guliani, jebster, jindal, kaisich, kreme, krispy, pawlenty, yeb
+
+COMMON:
+christies, fiorina, huckabee, jeb, kasich, pataki, perry, rubio, walker
+
+LEFT DISTINCT:
+cain, carly, chris, giuliani, haley, lepage, marco, matthews, nunes, santorum, snyder
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+abott, chris, christies, christy, crist, cumo, cuomo, disantis, gianforte, gtchris, hogan, kasich, mathews, mccrory, pataki, rauner, rispone, romeny, stirewalt, sununu
+
+COMMON:
+None
+
+LEFT DISTINCT:
+allred, bennett, bredesen, carville, coons, corker, elliot, hayes, lewandowski, matthews, mccabe, mcmaster, murphy, nicole, quayle, rcalif, reeves, wasserman, weaver, whitman
+
+
+
+================================================================================
+WORD: cia
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+biographer, brennan, ciansa, cias, counterintelligence, crowdstrike, dia, dni, gru, informant, intel, intercepts, manifort, moles, mossad, nsa, ubl
+
+COMMON:
+fbi, fsb, ic
+
+LEFT DISTINCT:
+agencys, annex, clapper, colin, counterterrorism, covert, dea, dhs, diplomats, guccifer, hackers, ig, interrogation, kgb, pentagon, spies, wmd
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+ciafbi, cias, cointelpro, dia, dod, excia, fbicia, gchq, gtfbi, humint, jsoc, kgb, mkultra, mossad, odni, spooks, svr
+
+COMMON:
+fbi, fsb, nsa
+
+LEFT DISTINCT:
+blackwater, counterintelligence, covert, dea, dhs, diplomats, dni, exfbi, gina, guccifer, informant, intel, interrogation, investigates, redfield, tsa, wray
+
+
+
+================================================================================
+WORD: classified
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+declassified, divulged, divulging, markings, materiel, memos, methodssources, mishandle, orcon, scif, sensitive, topsecret, tssci, unsecure, wl, workrelated
+
+COMMON:
+classification, confidential, mishandled, unclassified
+
+LEFT DISTINCT:
+clearance, correspondence, disclosed, ic, incriminating, leak, leaked, marked, mishandling, proprietary, retroactively, server, servers, transmitted, unauthorized, unsecured
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+categorized, classed, classification, classifies, classify, classifying, considered, divulging, grandjury, homebrew, labeled, misclassified, pii, reclassified, topsecret, tssci, unclassified
+
+COMMON:
+confidential, declassified, scif
+
+LEFT DISTINCT:
+archives, declassify, docs, documents, electronically, foia, leak, leaked, leaking, mishandling, pertinent, photographs, privy, salacious, secretive, stored, trove
+
+
+
+================================================================================
+WORD: clintons
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+abedin, albright, bj, cankles, cosbys, dubyas, hilary, madeline, obamas, rodham
+
+COMMON:
+clinton, dncs, her, hilarys, hillary, hillarys, hrc, hrcs, romneys, trumps
+
+LEFT DISTINCT:
+bernies, bidens, clintonamps, gther, hers, lackluster, perezs, sanders, sandersamp, sanderss
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+abedin, bengazi, epstein, epsteins, epstien, gthillary, hilary, hilliary, hrcs, huma, killary, obamas, shillary
+
+COMMON:
+clinton, hilarys, hillary, hillarys, hrc, rodham, whitewater
+
+LEFT DISTINCT:
+bidens, blowjob, burisma, bushs, chelsea, cosby, cuomos, dncs, dukakis, frankens, gores, gw, predecessors
+
+
+
+================================================================================
+WORD: comment
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+bestof, commenter, commentor, copypasted, jonesrr, rediquette, rwhiterights, selfpost, sentance, snarkiness, statement, subthread, terrortot, thread, xposted
+
+COMMON:
+comments, post, remark, replies, reply
+
+LEFT DISTINCT:
+automod, commenters, diatribe, flair, inbox, misread, pms, replying, reread, rguns, rnottheonion, rpoliticaldiscussion, snide, stickied, ubackpackwayne
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+commented, commenter, commentor, commentpost, postcomment, remark, replier, replies, reply, replys, retype, rmovies, rwhoosh, shitpoliticssays, statement, subthread, thishttpspastebincomfcrfsk, tweet
+
+COMMON:
+comments, post
+
+LEFT DISTINCT:
+account, apologise, automod, caramelkey, copypaste, crosspost, httpswwwredditcomrdemocratsaboutrules, jtig, karma, paragpraphs, pasting, proofread, rdemocrat, rdemocrats, rnews, rpoliticalhumor, snark, tagged
+
+
+
+================================================================================
+WORD: communists
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+anarchocommunists, anticapitalists, antifascists, bolsheviks, collectivists, communist, facists, jacobins, maoists, minarchists, nazis, progressives, socialistscommunists, stalinists
+
+COMMON:
+anarchists, anarcho, commies, fascists, marxists, socialists
+
+LEFT DISTINCT:
+anarchocapitalists, communism, leftwingers, lenin, mao, nazism, neo, neoconservatives, regressives, revolutionaries, rinos, socialistcommunist, stalins, sympathies
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+anarchocommunists, bolsheviks, communist, communistssocialists, fascists, leninists, maoists, marxists, mensheviks, nazis, neomarxists, socialistscommunists, stalinists, syndicalists, tankies, trotskyists
+
+COMMON:
+anarchists, authoritarians, commies, socialists
+
+LEFT DISTINCT:
+aggressors, agitators, antifascist, antifascists, bogeyman, facists, feminists, germans, globalists, godless, mccarthyism, neo, neoliberals, stalin, sympathizers, tories
+
+
+
+================================================================================
+WORD: community
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+academies, asianamerican, bcr, camaraderie, communitys, congregation, earshot, glbt, liberalminded, neighborhoods, neighbourhoods, pta, quaker, selfselect, subculture, uplift, usic, volunteerism
+
+COMMON:
+communities, society
+
+LEFT DISTINCT:
+admissions, affinity, assimilation, campus, communal, communes, etiquette, faculty, gthas, lbgt, lgbtq, pastors, scholarships, spiritual, stigmatized, tasked, toronto, youths
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+closeknit, communites, communitybased, fraternities, leaderboardhttpsredditjdjxc, lgbtqi, neighborhood, neighborhoods, neighbourhood, optouthttpsredditjdrsu, outreach, peopleeven, rnicebot, societythe, tightknit, tq, tuitionfree, underserved
+
+COMMON:
+communities, communitys
+
+LEFT DISTINCT:
+amends, better, bipoc, clicking, congregation, epidemiologists, help, humanist, intimately, make, revamp, revitalize, richmond, shittier, surroundings, us, uswim, youths
+
+
+
+================================================================================
+WORD: conservatives
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+conservative, conservativeslibertarians, conservativesrepublicans, gtconservatives, leftists, liberalsdemocrats, minarchists, nonleftists, objectivists, paleocons, progressives, republicansconservatives, rightwingers, socons, traditionalists
+
+COMMON:
+democrats, liberals, liberalsprogressives, libertarians, republicans
+
+LEFT DISTINCT:
+anarchocapitalists, ancaps, dinos, fervently, gtdemocrats, hardline, hardliners, idealists, lefties, leftwingers, libs, neoconservatives, regressives, rightists, trumpet
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+conservative, conservativeslibertarians, conservativesrepublicans, conservativestm, conservstives, consevatives, conversatives, gtconservatives, libertarians, nonliberals, progressives, righties, wingers
+
+COMMON:
+conservitives, democrats, lefties, leftists, liberals, republicans, republicansconservatives
+
+LEFT DISTINCT:
+centrists, conservitive, denominations, elitists, fundamentalists, gamers, neoliberals, nonrepublicans, reactionaries, republikkklans, rightwingers, sjws, trumpublicans
+
+
+
+================================================================================
+WORD: controversial
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+antileft, broach, defendable, divisive, germane, inflammatory, nonfactual, offthecuff, polarizing, prefacing, proconservative, tasteful, thorny, topical, uncontroversial, unpc, unpopular
+
+COMMON:
+contentious, newsworthy, touchy
+
+LEFT DISTINCT:
+agreeable, commonplace, drafting, groundbreaking, memorable, mundane, objectionable, pertinent, poignant, problematic, puzzling, questionable, regretted, sordid, troubling, unbecoming, unimportant
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+anodyne, banhappy, contraversial, divisive, gteh, logicbased, newsworthy, noncontroversial, offensive, ontopic, outthere, polarising, problematic, proconservative, routoftheloop, uncontroversial, unpopular, wellreceived
+
+COMMON:
+contentious, polarizing
+
+LEFT DISTINCT:
+consequential, cordial, debatable, disconcerting, enthused, frustrates, hawkish, implausible, jarring, nitpicking, outlining, oversimplifying, sobering, soured, tonedeaf, touchy, unimportant, worrisome
+
+
+
+================================================================================
+WORD: criminals
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+bangers, burglars, crimes, criminal, gangbangers, gangsters, incarcerate, incarcerating, lawbreakers, muggers, noncriminal, noncriminals, offenders, trespassers, victimless
+
+COMMON:
+felons, lawabiding, murderers, robbers, thieves
+
+LEFT DISTINCT:
+abiding, cartels, dealers, deporting, deter, dreamers, ffls, gangs, guns, hardened, illegally, irresponsibly, psychopaths, rapists, unlawfully
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+bangers, crimes, felons, fugitives, gangbangers, gangsters, lawbreakers, looters, muggers, noncriminals, offenders, perps, recidivist, reoffend, shoplifters, theives, thiefs
+
+COMMON:
+criminal, murderers, thugs
+
+LEFT DISTINCT:
+aholes, bloodthirsty, cartels, dealers, dirtbags, imprison, incarcerate, maniacs, mfers, perpetrators, pimps, psychopaths, scumbags, thieves, undesirables, unjustly, unlawfully
+
+
+
+================================================================================
+WORD: cuban
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+americanized, batista, castro, chinese, cuba, cubanamerican, cubans, cubas, dominican, exiles, filipino, guatemalan, haitian, korean, raul, rican, taiwanese, venezuelans
+
+COMMON:
+fidel, vietnamese
+
+LEFT DISTINCT:
+baron, chancellor, colonel, descent, egyptian, exile, falwell, indian, japanese, lenin, mandela, missile, nigerian, polish, taft, turkish, ukrainian, viet
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+argentinian, castro, colombian, cuba, cubanamerican, cubanamericans, dominicans, filipino, guatemalan, honduran, hungarian, korean, mexican, nicaraguan, rican, salvadorian
+
+COMMON:
+cubans, venezuelan, venezuelans, vietnamese
+
+LEFT DISTINCT:
+alberta, ancestor, arrivals, descent, guatemala, immigrated, indonesia, irish, kenya, nigeria, norwegian, philippines, polish, romania, scottish, thailand
+
+
+
+================================================================================
+WORD: declaration
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+armistice, belloc, consitution, constitution, csa, declarations, doi, drafters, enshrined, enumerating, penumbras, ratifying, selfevident, signatory, signers, unalienable
+
+COMMON:
+enumerated, independence, preamble, secession
+
+LEFT DISTINCT:
+amending, aumf, codified, conditional, covenant, divine, emancipation, framers, hereby, jerusalem, landmark, nobility, proclamation, ratification, rewritten, treaty
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+balfour, barrington, carta, deceleration, declarations, declare, declared, declaring, enumerates, independance, preamble, proclamations, ratification, ratifying, signer, signers, thirteenth
+
+COMMON:
+emancipation, independence, proclamation
+
+LEFT DISTINCT:
+affidavit, affidavits, authorization, binding, briefs, confederation, constitutions, enshrined, enumerated, forbids, gtunder, ndaa, reinstatement, rescind, specifies, standalone, treaties
+
+
+
+================================================================================
+WORD: delegates
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+alternates, caucused, clinch, convention, delegations, nomination, nottrump, squeaker, unbind, unbound, uncommitted, wta
+
+COMMON:
+delegate, ec, electors, superdelegates, unpledged, votes, winner, winnertakeall
+
+LEFT DISTINCT:
+caucuses, contested, contests, equivalents, pledged, precincts, proportional, proportionally, slots, supers, tallied, tosses
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+delegations, ecv, electoral, governorships, hor, legislatures, nomination, pluralities, senate, tiebreaker, tiebreaking, writeins
+
+COMMON:
+caucuses, delegate, delegation, ec, electorates, electors, superdelegates, votes
+
+LEFT DISTINCT:
+apportion, compact, contested, contests, electorial, handily, longshot, npvic, pledged, plurality, proportionally, winnertakeall
+
+
+
+================================================================================
+WORD: deport
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+amnestied, assimilate, border, crossers, deportations, deports, detain, emigrate, extradite, illegals, immigrants, mexicanamericans, noncriminals, overstay, overstayed, selfdeport
+
+COMMON:
+deportation, deported, deporting, immigrate
+
+LEFT DISTINCT:
+aliens, begrudge, confiscate, descendants, detaining, enslave, gtwhere, imprison, migrants, noncitizens, ramos, terrorize, toasters, undocumented, unvaccinated, vaccinate
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+apprehend, citizenship, crossers, deportation, deports, detain, detains, extradite, hatians, illegals, immagrants, naturalize, overstays, prosecute, selfdeport
+
+COMMON:
+deported, deporting, detaining, immigrate, overstayed
+
+LEFT DISTINCT:
+aliens, caged, caging, disarmed, immigrated, immigrating, imprison, incarcerate, invaders, noncitizen, overstay, overstaying, sneaking, terrorized, unlawfully
+
+
+
+================================================================================
+WORD: discord
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+agitation, discontent, dissension, disunity, division, divisiveness, foment, fomenting, friction, infighting, rancor, sow, sows, stoking, strife, tension, unrest
+
+COMMON:
+bitterness, sowing, stoke
+
+LEFT DISTINCT:
+appeasing, conformity, demos, groupthink, gtdemocrats, hordes, incessant, inclusiveness, insular, irrationality, isolate, overcoming, propoganda, sop, splinter, toxicity, wildfire
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+abouthttpswwwredditcomuseruserleansbotcommentsaupvafaqaboutuserleansbot, automated, bot, debate, discordhttpdiscordggconservative, discordhttpsdiscordcominviteconservative, discords, disharmony, httpsdiscordcominviteconservative, httpsdiscordggconservative, insteadhttpsdiscordcominviteconservative, insteadhttpssecuregivelivelyorgdonatepreventchildabuseamericapreventchildabuseamericarconservative, join, reeeporting, rtuckercarlson, sections, serverhttpsdiscordgggrvtssk, thread, whyhttpsredditcomusernogoogleampbotcommentslbzsgfaq
+
+COMMON:
+disunity
+
+LEFT DISTINCT:
+amplify, astroturfed, astroturfing, conquer, demoralize, discontent, dissatisfaction, division, divisiveness, fanning, foment, fud, infiltrate, inflame, seeds, sew, sow, sowing, wayofthebern
+
+
+
+================================================================================
+WORD: discussion
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+backandforth, conversations, dialogues, discuss, discussing, ontopic, rasktrumpsupporters, rclimateskeptics, rmoderatepolitics, rpoltics, subbreddit, subthread, topical
+
+COMMON:
+conversation, convo, debate, dialog, dialogue, discourse, discussions
+
+LEFT DISTINCT:
+circlejerk, civilly, converse, cordial, counterpoint, counterpoints, critique, disagreement, earnest, factbased, lively, rebuttal, respectful
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+backandforth, constructive, conversationdebate, convos, debatediscussion, dialogues, discuss, discussing, httpsmyoutubecomwatchvmzqqtinwncampfeatureyoutube, rneutralnews
+
+COMMON:
+conversation, conversations, convo, debate, debating, dialog, dialogue, disagreement, discourse, discussions
+
+LEFT DISTINCT:
+accusatory, argumentative, banter, considerate, converse, conversing, courteous, disagreements, goodfaith, mudslinging
+
+
+
+================================================================================
+WORD: disproportionately
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+asianamericans, blackhispanic, disproportional, disproportionate, gtblacks, highcrime, highincome, imprisons, marginalizes, minorites, predominantly, preferentially, proportionately, ses, socioeconomically, unfairly
+
+COMMON:
+adversely, disproportionally, lowerincome, minorities
+
+LEFT DISTINCT:
+asians, disadvantaged, disenfranchises, incarcerated, innercity, iqs, longrun, lowincome, neighborhoods, nonwhites, poc, structurally, tremendously, underprivileged, underrepresented, wealthier
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+blackhispanic, communites, detrimentally, disadvantaging, disproportional, disproportionality, disproportionate, minorities, nonminorities, nonminority, overpoliced, overpolicing, overwhelmingly, predominantly, proportionally, proportionately, socioeconomically, unfairly
+
+COMMON:
+adversely, disproportionally
+
+LEFT DISTINCT:
+affluent, bipoc, disadvantaged, disadvantages, disenfranchises, effecting, lowerincome, lowincome, materially, minorites, negatively, nonwhites, pocs, redlining, ripple, systemically, underprivileged, underrepresented
+
+
+
+================================================================================
+WORD: dnc
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+clintonobama, fsb, gop, gope, hillary, hrc, httpwwwpoliticocomstoryukrainesabotagetrumpbackfire, perez, phished, podesta, rncs, wikileaks, wl
+
+COMMON:
+brazile, dccc, dncs, dws, ofa, rnc, wassermanschultz
+
+LEFT DISTINCT:
+bho, chair, chairperson, coronation, debbie, democratic, donna, dscc, mook, nondemocrats, party, schultz, wasserman
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+dem, democrat, democrats, dems, dncclinton, gop, gope, hillary, hilldog, hrc, kstreet, nrcc, shillary, superpacs, wassermanschultz
+
+COMMON:
+dccc, democratic, dncs, rnc, superdelegates
+
+LEFT DISTINCT:
+bernie, clintonsupporters, democratics, dsa, dscc, favoritism, gtbernie, gtdemocrats, hilarys, limelight, podesta, rigging, spanberger, surrogates, wikileaks
+
+
+
+================================================================================
+WORD: dominion
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+apostolic, confucius, conqueror, covenants, earthly, ephesians, goddess, gtislam, ishmael, lording, mahomet, pantheon, precepts, ruler, saith, sanctified, sola, supercedes, verily
+
+COMMON:
+ordained
+
+LEFT DISTINCT:
+colonial, commanded, commanderinchief, denomination, derives, despots, judeochristian, liberated, pagan, prevailed, redemption, revered, revolted, rulers, secularists, shadowy, territorial, uganda, wielded
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+antrim, decertified, diebold, dominions, esamps, evoting, glitchy, gtdominion, hackable, machines, paperless, proprietary, scytl, sequoia, smartmatic, smartmatics, software, tabulators, unhackable, xerox
+
+COMMON:
+None
+
+LEFT DISTINCT:
+affidavits, ailes, alleging, apologizes, bk, burisma, concocted, defamation, electronically, exec, httpwwwrightwingwatchorgcontentdonaldtrumpconspiracytheoriesandcountingdefinitivetrumpconspiracyguide, irregularities, lawsuit, libel, monsanto, newsmax, ninjas, plaintiff, sues, tampered
+
+
+
+================================================================================
+WORD: eastern
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+albania, azerbaijan, balkans, caucasus, easterners, easts, eritrea, ethiopia, iberian, kashmir, mediterranean, middleeastern, neighbouring, nepal, peninsula, slavic, subcontinent, western
+
+COMMON:
+east, southeast
+
+LEFT DISTINCT:
+ancestry, asia, bangladesh, continent, descent, hemisphere, koreans, mali, middleeast, neighboring, nigeria, ottoman, pacific, philippines, qatar, romania, sunni, tribes
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+anatolia, balkan, balkans, caucasus, donetsk, easterner, easterns, europe, european, iberian, kharkiv, luhansk, middleeastern, mizrahi, norther, seaboard, southwestern, western
+
+COMMON:
+east, southeast
+
+LEFT DISTINCT:
+alberta, asia, chile, destabilized, guatemala, indonesia, lebanon, lexington, neighboring, nigeria, northeastern, northwest, pacific, plains, portugal, serbia, thailand, thirdworld
+
+
+
+================================================================================
+WORD: economically
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+anglosphere, demographically, ecologically, economic, economies, economy, electorally, geopolitically, linguistically, nordics, politically, socioeconomically, unfeasible
+
+COMMON:
+culturally, environmentally, financially, fiscally, militarily, socially, technologically
+
+LEFT DISTINCT:
+centerleft, centre, distressed, downtrodden, drifting, expedient, ideologically, impractical, longrun, moderately, philosophically, prosperous, tolerable
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+ecologically, economic, economical, economies, economy, educationally, fiscally, geopolitically, healthwise, industrially, logistically, militarily, monetarily, politically, sociologically, technologically
+
+COMMON:
+culturally, financially, geographically, socially
+
+LEFT DISTINCT:
+affluent, demographically, egalitarian, environmentally, ethnically, globalization, horrifically, immensely, policys, progressively, prosperous, streak, structurally, thriving, tremendously, unpalatable
+
+
+
+================================================================================
+WORD: economics
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+anthropology, demandside, hazlitt, keynesianism, keynsian, laureate, marxian, microeconomics, neoclassical, newtonian, polysci
+
+COMMON:
+austrian, econ, keynesian, macroeconomics, mathematics, physics, polisci, supplyside, trickledown
+
+LEFT DISTINCT:
+chemistry, curve, faire, laffer, laissez, macro, psychiatry, sciences, sociology, trickle, voodoo
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+anthropology, demandside, econometrics, hazlitt, keynesianism, macroeconomics, microeconomics, minored, neoclassical, philosophy, polisci
+
+COMMON:
+biology, econ, keynesian, mathematics, physics, reaganomics, sociology, supplyside, trickledown
+
+LEFT DISTINCT:
+austrian, bogged, economists, humanities, laissezfaire, majors, mba, poli, sci, trickle, voodoo
+
+
+
+================================================================================
+WORD: elizabeth
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+buffetts, earl, fauxcahontas, gabbard, louie, mair, pocahontas, rodham, roseanne, tulsi, warpath, wassermanschultz, wilhelm
+
+COMMON:
+buffet, gillibrand, kamala, klobuchar, liz, warren, warrens
+
+LEFT DISTINCT:
+booker, corey, cory, cuomo, duckworth, gavin, grayson, hillarysoldout, kirsten, newsom, schweitzer, sherrod, warrensanders
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+beatrice, bernie, buffetts, buttegieg, dmass, dolezal, elisabeth, fauxcahontas, lieawatha, lizzie, lizzy, pocahontas, sanders, sherrod, symone, warrens, wilhelm, wyden
+
+COMMON:
+markey, warren
+
+LEFT DISTINCT:
+bennet, booker, bottoms, buffet, buffett, buttigeig, cory, demings, gillibrand, harris, julin, kirsten, klobuchar, kristen, marianne, ocasio, veep, williamson
+
+
+
+================================================================================
+WORD: ethnic
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+albanians, antiwhites, armenians, ashkenazi, asianamerican, dialects, homogeneity, nationalities, noneuropean, nonjewish, norwegians, racial, racialethnic, rohingya, slavic, slavs, sunnishia
+
+COMMON:
+cleansing, ethnically, ethnicity
+
+LEFT DISTINCT:
+ancestry, arabs, caliphate, creed, ethnicities, exterminate, faiths, homogenous, identities, indigenous, jihadist, nationality, nonchristian, nonwhites, protestants, sects, subjugation
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+ethnical, ethnicracial, ethnics, ethnoreligious, europeanamericans, mestizo, mizrahi, nonasian, noneuropean, racialethnic, roma, romani, sephardic, slavic, tutsi
+
+COMMON:
+cleansing, ethnically, ethnicities, ethnicity, racial
+
+LEFT DISTINCT:
+animus, assimilation, caucasian, caucasians, colonialism, judaism, nationality, nonchristian, oppressing, profiling, repressed, sect, sects, subjugation, whiteness
+
+
+
+================================================================================
+WORD: fbi
+================================================================================
+
+--- ERA A ---
+RIGHT DISTINCT:
+atf, ciansa, clapper, counterintelligence, dag, dia, dni, informant, manifort, mccabe, oig
+
+COMMON:
+cia, comey, doj, fbis, fsb, ic, ig, investigation, mueller
+
+LEFT DISTINCT:
+autopsy, dhs, investigated, investigating, investigators, memos, muellers, notified, perjury, probe, trumprussia
+
+
+--- ERA B ---
+RIGHT DISTINCT:
+atf, ciafbi, dojfbi, entrapped, fbicia, fbidoj, gbi, gchq, gtfbi, informants, irs, oig, papado, undercovers
+
+COMMON:
+cia, dhs, doj, fbis, informant, nsa
+
+LEFT DISTINCT:
+archives, counterintelligence, dea, declassified, dni, exfbi, ig, investigates, investigator, investigators, muller, tsa, whistleblower, wray
+
+
